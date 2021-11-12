@@ -1,0 +1,59 @@
+{
+  "@originContentId": "ac5fd99dfef77e38cee5b713cd77fd0676f39168ac84582dc6d4a789ce857e38",
+  "@originModelId": "15670ab9d951f7385dab0f6313f22ea884553d0d8ebbe3a39c60afc225df2d3d",
+  "@originOrg": "4d832b53c3cf422f9a6c92a23abf35ac",
+  "createdBy": "agZ9n5CUKRfbL9t6CaJOyVSK4Es2",
+  "createdDate": 1610516058604,
+  "data": {
+    "inputs": [],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    },
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "bindings": {
+          "component.options.product": "state.product",
+          "component.options.title": "state.product.title",
+          "component.options.description": "state.product.descriptionHtml"
+        },
+        "id": "builder-0651a7f9080a46b2a5cf92ab47265e54",
+        "component": {
+          "name": "ProductView",
+          "options": {}
+        },
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "20px"
+          }
+        }
+      }
+    ]
+  },
+  "id": "05e6afc6324347b49c0f7c80dae94360",
+  "lastUpdated": 1611873566299,
+  "lastUpdatedBy": "agZ9n5CUKRfbL9t6CaJOyVSK4Es2",
+  "meta": {
+    "hasLinks": false,
+    "kind": "component",
+    "needsHydration": false
+  },
+  "modelId": "5d7832a6821e439280138b242dfee5ad",
+  "name": "Generic template",
+  "published": "published",
+  "query": [],
+  "rev": "7y1qohp2k5i",
+  "screenshot": "https://cdn.builder.io/api/v1/image/assets%2F6e5b10afb1a9457ba648112d4c5d30e8%2F52a6831152264f29a2b28166304a30d5",
+  "testRatio": 1,
+  "variations": {}
+}

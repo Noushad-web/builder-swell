@@ -1,0 +1,50 @@
+{
+  "@originContentId": "a312ae57f3de886b360cafc1986714f81e8ed93bc6d0a09f717b9f91dae23f79",
+  "@originModelId": "93a28cddbe257c8c956bbdb79408188bfab7220ad04e7c505e572d47a6b0406d",
+  "@originOrg": "4d832b53c3cf422f9a6c92a23abf35ac",
+  "createdBy": "4FFFg0MNRJT0z0nW4uUizDHfHJV2",
+  "createdDate": 1618890934748,
+  "data": {
+    "colorOverrides": {},
+    "siteInformation": {
+      "description": "A starter kit demo store for using Swell and Builder.io ->  https://github.com/swellstores/nextjs-builder",
+      "openGraph": {
+        "locale": "en_IE",
+        "site_name": "Builder.io + Next.js + Swell Demo",
+        "type": "website",
+        "url": "https://github.com/swellstores/nextjs-builder"
+      },
+      "title": "Builder.io + Next.js + Swell Demo",
+      "titleTemplate": "%s - Headless Demo"
+    },
+    "siteSettings": {
+      "logo": {
+        "text": "Storefront"
+      },
+      "navigationLinks": [
+        {
+          "link": "/faq",
+          "title": "FAQ"
+        },
+        {
+          "link": "/about-us",
+          "title": "About us"
+        }
+      ]
+    },
+    "theme": "swiss"
+  },
+  "id": "c77df46d5ce0441c86ca4bafd757d88d",
+  "lastUpdated": 1631307937069,
+  "lastUpdatedBy": "4FFFg0MNRJT0z0nW4uUizDHfHJV2",
+  "meta": {
+    "kind": "data"
+  },
+  "modelId": "c97db5356e4b440d94423eb6c6d8173d",
+  "name": "Site theme",
+  "published": "published",
+  "query": [],
+  "rev": "n7tziq0rw7c",
+  "testRatio": 1,
+  "variations": {}
+}

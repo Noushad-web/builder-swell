@@ -1,0 +1,40 @@
+{
+  "type": "space",
+  "hasIntegrated": "local",
+  "settings": {
+    "optimizeContentVisibility": true,
+    "reloadPreviewForMobile": false
+  },
+  "siteUrl": "http://localhost:3000",
+  "customTargetingAttributes": {
+    "collectionHandle": {
+      "type": "SwellCategoryHandle"
+    },
+    "itemInCart": {
+      "type": "SwellProductHandle"
+    },
+    "productHandle": {
+      "type": "SwellProductHandle"
+    }
+  },
+  "loadPlugins": ["@builder.io/plugin-swell"],
+  "@version": 5,
+  "cloneInfo": {
+    "contentIdMap": {
+      "ac5fd99dfef77e38cee5b713cd77fd0676f39168ac84582dc6d4a789ce857e38": "05e6afc6324347b49c0f7c80dae94360",
+      "a312ae57f3de886b360cafc1986714f81e8ed93bc6d0a09f717b9f91dae23f79": "c77df46d5ce0441c86ca4bafd757d88d",
+      "036efa873df3ced70c26f218e2234f53b7611826a1c89915e5671cb3c7f3c1a5": "d221fc78c13a4b0ca96869f9ef096d1b",
+      "6e26c3a66619aa945c31fbde0c5ad35e52b0ecface55a3f5cbdc79952326be96": "e644ce7d6bf949289f1e3d12b21b0ea7",
+      "172a83bd533848d52db8ff1d087a2a2f223d246df3d4f37a82d7defb034e066a": "15594ec857a24558b292e79f8bbec059",
+      "22b07daaafe2483b880096a6b2fac937": "83fa2ebddbb242649499db90d7786fb5"
+    },
+    "modelIdMap": {
+      "15670ab9d951f7385dab0f6313f22ea884553d0d8ebbe3a39c60afc225df2d3d": "5d7832a6821e439280138b242dfee5ad",
+      "93a28cddbe257c8c956bbdb79408188bfab7220ad04e7c505e572d47a6b0406d": "c97db5356e4b440d94423eb6c6d8173d",
+      "50b47b9bbb4a7e3f4e511d380916bd11ccfb542bdd4662cb5eb87f1cf92c8d3a": "98351febac3a4ec2a6900cd0eaaad0b9",
+      "2d8db355355b2b2fa611387eaeb02e39ed9c64483e31354853c6376f69aa49b0": "706f88a2775b42de9665ea421fc74956",
+      "953b09d275bbb145858565ee9a39294d35903d1b556451d6776655956d6df47c": "081cd8ec88d84fa2bfc39bac56c9144c",
+      "0997d1c844de5489f349df50288f8e98e551089ef0eba4a70f43562ee9f78153": "807497368ce84a74a5382b255b50fc0f"
+    }
+  }
+}
